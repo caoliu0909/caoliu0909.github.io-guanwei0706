@@ -73,3 +73,9 @@ img {
   font-size: 25px;
   margin-top: 3%;
 }
+
+.footer {
+  text-align: center;
+  color: #999;
+  padding-top: 20px;
+}
